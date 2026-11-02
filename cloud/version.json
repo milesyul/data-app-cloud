@@ -1,0 +1,6 @@
+{
+  "versionCode": 17,
+  "versionName": "1.0.17",
+  "apkUrl": "https://raw.githubusercontent.com/USER/REPO/main/ToolkitApp-debug.apk",
+  "notes": "新增：配置数据可托管到 GitHub 云端并本地缓存（断网可用）；支持 App 内检测并安装新版本。"
+}
